@@ -169,12 +169,12 @@ This grammar was derived from:
 | `non_zero` | Project helper | Local helper token used in `dec_octet` |
 | `unreserved` | RFC 3986 | Used by `ipvfuture` production |
 
-[shield_gh-workflow-test]: https://img.shields.io/github/actions/workflow/status/jkowalleck/rfc3987-syntax2/python-tests.yml?branch=main&logo=GitHub&logoColor=white "tests"
+[shield_gh-workflow-test]: https://img.shields.io/github/actions/workflow/status/python-jsonschema/rfc3987-syntax2/python-tests.yml?branch=main&logo=GitHub&logoColor=white "tests"
 [shield_pypi-version]: https://img.shields.io/pypi/v/rfc3987-syntax2?logo=Python&logoColor=white&label=PyPI "PyPI"
-[shield_license]: https://img.shields.io/github/license/jkowalleck/rfc3987-syntax2?logo=open%20source%20initiative&logoColor=white "license"
+[shield_license]: https://img.shields.io/github/license/python-jsonschema/rfc3987-syntax2?logo=open%20source%20initiative&logoColor=white "license"
 [shield_rtfd]: https://img.shields.io/readthedocs/rfc3987-syntax2?logo=readthedocs&logoColor=white "Read the Docs"
 
 [link_pypi]: https://pypi.org/project/rfc3987-syntax2/
-[link_gh-workflow-test]: https://github.com/jkowalleck/rfc3987-syntax2/actions/workflows/python-tests.yml?query=branch%3Amain
-[license_file]: https://github.com/jkowalleck/rfc3987-syntax2/blob/main/LICENSE
+[link_gh-workflow-test]: https://github.com/python-jsonschema/rfc3987-syntax2/actions/workflows/python-tests.yml?query=branch%3Amain
+[license_file]: https://github.com/python-jsonschema/rfc3987-syntax2/blob/-/LICENSE
 [link_rtfd]: https://rfc3987-syntax2.readthedocs.io

@@ -6,6 +6,11 @@ All notable changes to this project will be documented in this file.
 
 <!-- unreleased things below this line -->
 
+* Docs
+  * Updated docs after project transferred to _python-jsonschema_ org (via [#])
+
+[#]: 
+
 ## v1.3.2 - 2026-07-24
 
 * Refactor
@@ -13,15 +18,15 @@ All notable changes to this project will be documented in this file.
 * Docs
   * Fixed docstring of `T_SYNTAX_PARSER_TERM` (via [#70]) 
 
-[#69]: https://github.com/jkowalleck/rfc3987-syntax2/pull/69
-[#70]: https://github.com/jkowalleck/rfc3987-syntax2/pull/70
+[#69]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/69
+[#70]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/70
 
 ## v1.3.1 - 2026-07-23
 
 * Docs 
   * Added and improved package docs  (via [#67])
 
-[#67]: https://github.com/jkowalleck/rfc3987-syntax2/pull/67
+[#67]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/67
 
 ## v1.3.0 - 2026-07-21
 
@@ -48,16 +53,16 @@ All notable changes to this project will be documented in this file.
 * Tests
   * Add grammar regression tests (via [#48])
 
-[#41]: https://github.com/jkowalleck/rfc3987-syntax2/pull/41
-[#43]: https://github.com/jkowalleck/rfc3987-syntax2/pull/43
-[#45]: https://github.com/jkowalleck/rfc3987-syntax2/pull/45
-[#48]: https://github.com/jkowalleck/rfc3987-syntax2/pull/48
-[#49]: https://github.com/jkowalleck/rfc3987-syntax2/pull/49
-[#50]: https://github.com/jkowalleck/rfc3987-syntax2/pull/50
-[#51]: https://github.com/jkowalleck/rfc3987-syntax2/pull/51
-[#52]: https://github.com/jkowalleck/rfc3987-syntax2/pull/52
-[#58]: https://github.com/jkowalleck/rfc3987-syntax2/pull/58
-[#59]: https://github.com/jkowalleck/rfc3987-syntax2/pull/59
+[#41]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/41
+[#43]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/43
+[#45]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/45
+[#48]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/48
+[#49]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/49
+[#50]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/50
+[#51]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/51
+[#52]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/52
+[#58]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/58
+[#59]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/59
 
 ## v1.2.0 - 2026-07-16
 
@@ -74,9 +79,9 @@ All notable changes to this project will be documented in this file.
 * Tests
   * Add grammar regression tests (via [#10])
 
-[#10]: https://github.com/jkowalleck/rfc3987-syntax2/pull/10
-[#16]: https://github.com/jkowalleck/rfc3987-syntax2/pull/16
-[#19]: https://github.com/jkowalleck/rfc3987-syntax2/pull/19
+[#10]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/10
+[#16]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/16
+[#19]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/19
 
 ## v1.1.1 - 2026-07-14
 

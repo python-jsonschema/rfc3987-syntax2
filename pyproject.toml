@@ -13,7 +13,6 @@ license-files = ["LICEN[CS]E*"]
 keywords = ["RFC 3987", "RFC3987", "validator", "syntax", "parser"]
 authors = [
     { name = "Jan Kowalleck" },
-    { name = "Will Riley", email = "wanderingwill@gmail.com" }
 ]
 classifiers = [
     # https://pypi.org/classifiers/
@@ -35,12 +34,12 @@ classifiers = [
 dependencies = ["lark>=1.2.2"]
 
 [project.urls]
-homepage = "https://github.com/jkowalleck/rfc3987-syntax2"
-changelog = "https://github.com/jkowalleck/rfc3987-syntax2/blob/main/CHANGELOG.md"
-releasenotes = "https://github.com/jkowalleck/rfc3987-syntax2/releases"
+homepage = "https://github.com/python-jsonschema/rfc3987-syntax2?tab=readme-ov-file"
+changelog = "https://github.com/python-jsonschema/rfc3987-syntax2/blob/-/CHANGELOG.md"
+releasenotes = "https://github.com/python-jsonschema/rfc3987-syntax2/releases"
 documentation = "https://rfc3987-syntax2.readthedocs.io"
-issues = "https://github.com/jkowalleck/rfc3987-syntax2/issues"
-source = "https://github.com/jkowalleck/rfc3987-syntax2"
+issues = "https://github.com/python-jsonschema/rfc3987-syntax2/issues"
+source = "https://github.com/python-jsonschema/rfc3987-syntax2"
 funding = "https://github.com/sponsors/jkowalleck"
 
 [project.optional-dependencies]

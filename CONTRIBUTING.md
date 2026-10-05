@@ -40,7 +40,7 @@ Pull requests are welcome! Please keep the following in mind:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/jkowalleck/rfc3987-syntax2.git
+   git clone https://github.com/python-jsonschema/rfc3987-syntax2.git
    cd rfc3987-syntax2
    ```
 
