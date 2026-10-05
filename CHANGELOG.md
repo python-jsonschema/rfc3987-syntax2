@@ -7,9 +7,9 @@ All notable changes to this project will be documented in this file.
 <!-- unreleased things below this line -->
 
 * Docs
-  * Updated docs after project transferred to _python-jsonschema_ org (via [#])
+  * Updated docs after project transferred to _python-jsonschema_ org (via [#85])
 
-[#]: 
+[#85]: https://github.com/python-jsonschema/rfc3987-syntax2/pull/85
 
 ## v1.3.2 - 2026-07-24
 
