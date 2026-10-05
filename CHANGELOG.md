@@ -6,6 +6,8 @@ All notable changes to this project will be documented in this file.
 
 <!-- unreleased things below this line -->
 
+## v1.3.3 - 2026-10-05
+
 * Docs
   * Updated docs after project transferred to _python-jsonschema_ org (via [#85])
 
