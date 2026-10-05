@@ -6,6 +6,8 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
+# Publishing process: see ../../docs/_dev/publish.md
+
 name: Upload Python Package
 
 on:
