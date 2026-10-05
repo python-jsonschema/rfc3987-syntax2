@@ -13,7 +13,7 @@ If you discover a security vulnerability, please report it through **GitHub Secu
 - Go to the repository’s **Security** tab.
 - Choose **Report a vulnerability**.
 - Submit the details privately through GitHub’s advisory workflow.
-- <https://github.com/jkowalleck/rfc3987-syntax2/security/advisories/new>
+- <https://github.com/python-jsonschema/rfc3987-syntax2/security/advisories/new>
 
 
 Please **do not** open public issues for security vulnerabilities.
